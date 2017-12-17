@@ -8,7 +8,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# In this program, we evaluate and improve the policy simutaneously
+# In this program, we evaluate and improve the policy simultaneously
 stNum = 100  # The number of the possible states
 # Epsilon threshold has twofold functions:
 # 1. minimum improvement of policy improvement for each state to change state action;
